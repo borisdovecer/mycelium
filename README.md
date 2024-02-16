@@ -1,4 +1,4 @@
-# mycelyum
+# mycelium
 
 ## Project structure
 
